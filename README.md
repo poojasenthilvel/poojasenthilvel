@@ -27,8 +27,12 @@
 
 ![](https://streak-stats.demolab.com?user=poojasenthilvel&theme=midnight-purple&hide_border=true)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=poojasenthilvel&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Snake animation](https://github.com/poojasenthilvel/poojasenthilvel/blob/output/github-contribution-grid-snake.svg?raw=true)
