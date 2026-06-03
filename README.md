@@ -31,4 +31,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/poojasenthilvel/poojasenthilvel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/poojasenthilvel/poojasenthilvel/blob/output/github-contribution-grid-snake.svg?raw=true)
